@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今(Special ver.)",
+  "base_artist": "HIKAKIN & SEIKIN",
+  "createdAt": "2026-01-01T13:58:17.066710Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今 (Special ver.)",
+      "artist": "HIKAKIN & SEIKIN",
+      "has_synced": false,
+      "path": "select/pl_01_今_(Special_ver.)_HIKAKIN_&_SEIKIN.txt"
+    }
+  ]
+}
